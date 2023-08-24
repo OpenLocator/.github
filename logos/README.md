@@ -2,4 +2,4 @@
 
 Quickly made in [logo.com](https://logo.com)
 
-Formats: svg and png
+Formats: svg
